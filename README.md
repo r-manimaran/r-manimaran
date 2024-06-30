@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working as a .net, cloud( AWS & Azure) Technical Solution Architect.
 🌱 I’m currently learning daily new stuff in Tech world!
-💬 Ask me about .Net, AWS, Azure, SharePoint, Architecure and Solutioning.
+💬 Ask me about .Net, AWS, Azure, GENAI, Embeddings, RAG, SharePoint, Architecure and Solutioning.
 <!--
 **r-manimaran/r-manimaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

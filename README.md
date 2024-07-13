@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-manimaran&show_icons=true&locale=en&layout=compact" alt="rmanimaran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r-manimaran&show_icons=true&locale=en" alt="rmanimaran" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r-manimaran&show_icons=true&locale=en&theme=dracula" alt="rmanimaran" /></p>
 
 <p>My Trophies</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r-manimaran&theme=onedark&row=2&column=4" alt="rmanimaran" /></a> </p>

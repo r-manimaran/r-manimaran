@@ -1,7 +1,21 @@
-### Hi there 👋
+👋 Welcome to my GitHub!
 
-### 🔭 I’m currently working as a .net, cloud( AWS & Azure) Technical Solution Architect.
-🌱 I’m currently learning daily new stuff in Tech world!
+I am a passionate .Net Developer and Architect with extensive experience in designing and building scalable, high-performance applications. My expertise spans across Azure and AWS cloud services, where I have architected and deployed robust solutions to solve complex business challenges.
+
+Recently, I’ve been diving into the exciting world of Generative AI and have developed applications using LangChain and Python FastAPI, leveraging cutting-edge technologies to create innovative AI-driven solutions.
+
+My technical interests include:
+
+Cloud-Native Development (Azure, AWS)
+API Development with .Net Core, FastAPI
+Generative AI and Natural Language Processing
+Event-Driven Architectures using MassTransit, RabbitMQ, SQS, and SNS
+Containerization and Orchestration with Docker, Docker Compose & .Net Aspire
+
+I enjoy exploring new trends in technology and contributing to open-source projects. Feel free to check out my repositories, where I share technical experiments, tools, and project implementations.
+
+Let’s collaborate and innovate! 🌟
+
 💬 Ask me about .Net, AWS, Azure, GENAI, Embeddings, RAG, SharePoint, Architecure and Solutioning.
 <!--
 **r-manimaran/r-manimaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

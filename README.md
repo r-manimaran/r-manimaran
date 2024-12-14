@@ -16,7 +16,7 @@ I enjoy exploring new trends in technology and contributing to open-source proje
 
 Let’s collaborate and innovate! 🌟
 
-💬 Ask me about .Net, AWS, Azure, GENAI, Embeddings, RAG, SharePoint, Architecure and Solutioning.
+💬 Ask me about .Net, AWS, Azure, GENAI, LLMs, Langchain, FastAPI, Embeddings, RAG, SharePoint, Architecure and Solutioning.
 <!--
 **r-manimaran/r-manimaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

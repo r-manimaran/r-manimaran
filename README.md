@@ -6,13 +6,13 @@ Recently, I’ve been diving into the exciting world of Generative AI and have d
 
 My technical interests include:
 
-Cloud-Native Development (Azure, AWS)
-API Development with .Net Core, FastAPI
-Generative AI and Natural Language Processing
-Event-Driven Architectures using MassTransit, RabbitMQ, SQS, and SNS
-Containerization and Orchestration with Docker, Docker Compose & .Net Aspire
+- Cloud-Native Development (Azure, AWS)
+- API Development with .Net Core, FastAPI
+- Generative AI and Natural Language Processing
+- Event-Driven Architectures using MassTransit, RabbitMQ, SQS, and SNS
+- Containerization and Orchestration with Docker, Docker Compose, Kubernetes & .Net Aspire
 
-I enjoy exploring new trends in technology and contributing to open-source projects. Feel free to check out my repositories, where I share technical experiments, tools, and project implementations.
+I enjoy exploring new trends in technology. Feel free to check out my repositories, where I share technical experiments, tools, and project implementations.
 
 Let’s collaborate and innovate! 🌟
 
@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 <p>My Trophies</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r-manimaran&theme=onedark&row=2&column=4" alt="rmanimaran" /></a> </p>
 
-<p>Cotributions and Streaks</p>
+<p>Contributions and Streaks</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r-manimaran" alt="rmanimaran" /></p>

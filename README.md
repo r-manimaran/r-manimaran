@@ -22,7 +22,6 @@ Let’s collaborate and innovate! 🌟
 
 Here are some ideas to get you started:
 
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
@@ -39,3 +38,5 @@ Here are some ideas to get you started:
 
 <p>Contributions and Streaks</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r-manimaran" alt="rmanimaran" /></p>
+
+<a href="https://www.buymeacoffee.com/rmanimaran" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
